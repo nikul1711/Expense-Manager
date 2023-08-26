@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="card_background">#FFFFFFFF</color>
+    <!--Testing-->
+    <color name="card_background">#27325F</color>
     <color name="dashboard_item_1">#2CC2EA</color>
     <color name="dashboard_item_2">#4DE9C9</color>
     <color name="dashboard_item_3">#72A4FF</color>
     <color name="dashboard_item_4">#8B72FF</color>
-
-
-    <color name="yellow">#FFA751</color>
-    <color name="blue">#4e33ff</color>
-    <color name="lightBlack">#171C26</color>
-    <color name="darkBlack">#10141C</color>
-
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-
     <!--NEW THEME COLOR-->
-    <color name="background">#F5F5F7</color>
-    <color name="primary">#425C81</color>
+    <color name="background">#2C2D31</color>
+    <color name="primary">#2C2D31</color>
     <color name="secondary1">#2C2D31</color>
     <color name="third1">#2C2D31</color>
 
-    <!--BOTTOM NAVIGATION COLOR-->
-    <color name="card_nav_background">#EEEEEF</color>
-    <color name="nav_background">#FFFFFFFF</color>
-    <color name="nav_is_selected">#FFA751</color>
-    <color name="nav_icon_color">#1E1F22</color>
 
+    <!--BOTTOM NAVIGATION COLOR-->
+    <color name="card_nav_background">#494A4C</color>
+    <color name="nav_background">#2C2D31</color>
+    <color name="nav_is_selected">#FFA751</color>
+    <color name="nav_icon_color">#FFFFFF</color>
 
     <color name="settingBlueColor">#20B9FC</color>
     <color name="settingGreyColor">#B7BBC7</color>
     <color name="settingOffWhiteColor">#F5F5F7</color>
 
     <!--Text Colors-->
-    <color name="primaryText">#171717</color>
-    <color name="secondary_text">#565B65</color>
+    <color name="primaryText">#FFFFFF</color>
+    <color name="secondary_text">#797F95</color>
 </resources>
