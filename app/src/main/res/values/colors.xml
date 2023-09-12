@@ -36,4 +36,7 @@
     <!--Text Colors-->
     <color name="primaryText">#171717</color>
     <color name="secondary_text">#565B65</color>
+
+    <color name="primaryTextButtonColor">#F5F5F7</color>
+
 </resources>

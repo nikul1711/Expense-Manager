@@ -30,6 +30,14 @@ class MyUtils {
             return EMAIL_REGEX.toRegex().matches(email)
         }
 
+         fun getDataFromEditText(data:EditText):String{
+            val str=data.text.toString()
+            if (str.isNotEmpty()){
+                return  str
+            }
+            return ""
+        }
+
         fun isValidPassword(password: String): Boolean {
             if (password.length < 8) return false
             if (password.filter { it.isDigit() }.firstOrNull() == null) return false
