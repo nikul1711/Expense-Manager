@@ -1,4 +1,4 @@
-package com.example.mvvmroomdbandkotlincoroutines.utils
+package com.example.expense_manager.utils
 
 import android.R
 import android.annotation.SuppressLint
